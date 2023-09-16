@@ -1,10 +1,16 @@
 import React from 'react';
 
+// const RatingForm = () => {
+// 	const [name, setName] = useState("");
+//     const [date, setDate] = useState("");
+//     const [review, setReview] = useState("");
 const AddFavourite = () => {
 	return (
 		<>
+    
+
 		{/* I have a className to add to favourite used svg to fill out the box */}
-			<span className='mr-2'>Add to Favourites</span>
+			<span className='mr-2'></span>
 			<svg
 				width='1em'
 				height='1em'

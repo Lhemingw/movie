@@ -32,15 +32,15 @@ const App = ()=> {
 console.log(getMovieRequest);
 console.log(setMovies);
 
-	// useEffect(() => {
-	// 	const movieFavourites = JSON.parse(
-	// 		localStorage.getItem('react-movie-app-favourites')
-	// 	);
+	//  useEffect(() => {
+	//  	const RatingForm = JSON.parse(
+	//  		localStorage.getItem('react-movie-app-favourites')
+	//  	);
 
 	// 	if (movieFavourites) {
 	// 		setFavourites(movieFavourites);
 	// 	}
-	// }, []);
+	 //}, []);
 
 	// const saveToLocalStorage = (items) => {
 	// 	localStorage.setItem('react-movie-app-favourites', JSON.stringify(items));
